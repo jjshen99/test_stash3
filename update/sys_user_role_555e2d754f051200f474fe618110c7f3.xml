@@ -11,7 +11,7 @@
         <sys_class_name>sys_user_role</sys_class_name>
         <sys_created_by>jj</sys_created_by>
         <sys_created_on>2016-01-20 01:14:36</sys_created_on>
-        <sys_customer_update>true</sys_customer_update>
+        <sys_customer_update>false</sys_customer_update>
         <sys_id>555e2d754f051200f474fe618110c7f3</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>x_snc_app_stash3.user</sys_name>
